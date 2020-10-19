@@ -18,7 +18,8 @@
 **Task 9:** Loading and Evaluating our Model
 
 Sentiment Analysis with Deep Learning of Twitter Smile emotion dataset, using BERT, HuggingFace, PyTorch, to classify tweets emotions as variant smileys, and evaluated model via F-1 score metrics.
-Objective:
+
+### Objective:
 
 **Perform Sentiment Analysis, to classify the emotion of tweets, using pretrained BERT model.**
 
